@@ -1,0 +1,1283 @@
+::placeholder {
+    color: #9A9EA6;
+}
+
+.hero-text {
+    width: 558px;
+    height: 267px;
+    top: 264px;
+    left: 122px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Plus Jakarta Sans;
+    font-size: 66px;
+    font-weight: 800;
+    line-height: 89px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    color: #181E4B;
+}
+
+.hero-p {
+    width: 420px;
+    height: 60px;
+    top: 561px;
+    left: 120px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Plus Jakarta Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    color: #5E6282;
+}
+
+#btn {
+    box-shadow: 0px 20px 35px 0px #4475F236;
+    background-color: #4475F2;
+    color: white;
+}
+
+#btn-text {
+    width: 98px;
+    height: 21px;
+    top: 704px;
+    left: 425px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Plus Jakarta Sans;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 21.42px;
+    text-align: left;
+    color: #686D77;
+}
+
+#text-3 {
+    width: 220px;
+    height: 23px;
+    top: 1193px;
+    left: 122px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 26.5px;
+    letter-spacing: 0.095em;
+    text-align: left;
+    color: #4475F2;
+}
+
+#text-4 {
+    width: 748px;
+    height: 54px;
+    top: 1233px;
+    left: 122px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Manrope;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 50px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    color: #14183E;
+}
+
+#image {
+        box-shadow: 0px 1.07px 4.94px 0px #81818104;
+
+        box-shadow: 0px 2.48px 11.48px 0px #81818108;
+
+        box-shadow: 0px 4.45px 20.61px 0px #8181810B;
+
+        box-shadow: 0px 7.39px 34.2px 0px #8181810E;
+
+        box-shadow: 0px 12.17px 56.35px 0px #81818111;
+
+        box-shadow: 0px 21.27px 98.48px 0px #81818115;
+
+        box-shadow: 0px 46px 213px 0px #8181811F;
+
+}
+
+
+.text-5{
+    width: 220px;
+height: 27px;
+top: 1879px;
+left: 118px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 18px;
+font-weight: 800;
+line-height: 26.5px;
+letter-spacing: 0.095em;
+text-align: left;
+color: #4475F2;
+}
+
+.text-6{
+    width: 400.61px;
+height: 139.57px;
+top: 1915.09px;
+left: 118px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 45px;
+font-weight: 800;
+line-height: 63px;
+text-align: left;
+color: #14183E;
+}
+
+.text-7{
+    width: 258px;
+height: 21px;
+top: 2088px;
+left: 191px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 18px;
+font-weight: 700;
+line-height: 22.41px;
+text-align: left;
+color: #5E6282;
+}
+
+.text-8{
+    width: 351.07px;
+height: 42.94px;
+top: 2113.71px;
+left: 191.01px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.92px;
+text-align: left;
+color: #5E6282;
+}
+.text-9{
+    width: 282px;
+height: 22px;
+top: 2208px;
+left: 191px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 18px;
+font-weight: 700;
+line-height: 22.41px;
+text-align: left;
+color: #5E6282;
+}
+
+
+.text-10{
+    width: 351.07px;
+height: 42.94px;
+top: 2233.95px;
+left: 191.01px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.92px;
+text-align: left;
+color: #5E6282;
+}
+
+.text-11{
+    width: 272.7px;
+height: 21.47px;
+top: 2328.43px;
+left: 191.01px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 18px;
+font-weight: 700;
+line-height: 22.41px;
+text-align: left;
+color: #5E6282;
+}
+
+.text-12{
+    width: 351.07px;
+height: 42.94px;
+top: 2355.27px;
+left: 191.01px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.92px;
+text-align: left;
+color: #5E6282;
+}
+
+.text-13{
+    width: 169px;
+height: 24px;
+top: 2176px;
+left: 820px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 18px;
+font-weight: 800;
+line-height: 22.41px;
+letter-spacing: 0.015em;
+text-align: left;
+}
+.text-14{
+    width:85.48px;
+height: 21.47px;
+top: 2213.55px;
+left: 820.14px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.92px;
+letter-spacing: -0.005em;
+text-align: left;
+color: #84829A;
+}
+
+.text-15{
+    width: 95.48px;
+height: 21.47px;
+top: 2213.55px;
+left: 820.14px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.92px;
+letter-spacing: -0.005em;
+text-align: left;
+color: #84829A;
+}
+
+.text-16{
+    width: 194px;
+height: 22px;
+top: 2328px;
+left: 853px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.92px;
+letter-spacing: -0.02em;
+text-align: left;
+color: #84829A;
+}
+
+.text-17{
+    width: 220.37px;
+height: 20px;
+top: 2568px;
+left: 612.82px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 18px;
+font-weight: 800;
+line-height: 26.5px;
+letter-spacing: 0.095em;
+color: #4737FF;
+}
+
+.text-18{
+    font-family: Manrope;
+font-size: 48px;
+font-weight: 800;
+line-height: 62px;
+letter-spacing: -1px;
+width: 745px;
+height: 55px;
+top: 2614px;
+left: 247.21px;
+gap: 0px;
+opacity: 0px;
+}
+
+.text-19{
+    width: 720px;
+height: 64px;
+top: 2694px;
+left: 281.27px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 18px;
+font-weight: 400;
+line-height: 32px;
+}
+
+.text-20{
+    width: 222.17px;
+height: 30px;
+top: 3263px;
+left: 187.83px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 22px;
+font-weight: 800;
+line-height: 30px;
+letter-spacing: -0.550000011920929px;
+text-align: left;
+color: #18214D;
+}
+
+.text-21{
+    width: 274.17px;
+height: 52px;
+top: 3299px;
+left: 187.83px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 18px;
+font-weight: 500;
+line-height: 26px;
+text-align: left;
+color: #3E4462;
+}
+
+.text-22{
+    width: 201px;
+height: 30px;
+top: 3263px;
+left: 607.86px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 22px;
+font-weight: 800;
+line-height: 30px;
+letter-spacing: -0.550000011920929px;
+text-align: left;
+color: #18214D;
+}
+
+.text-23{
+    width: 294.17px;
+height: 52px;
+top: 3299px;
+left: 607.69px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 18px;
+font-weight: 500;
+line-height: 26px;
+text-align: left;
+color: #3E4462;
+}
+
+.text-24{
+    width: 216.36px;
+height: 30px;
+top: 3263px;
+left: 1023.51px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 22px;
+font-weight: 800;
+line-height: 30px;
+letter-spacing: -0.550000011920929px;
+text-align: left;
+color: #18214D;
+}
+
+
+.text-25{
+    width: 237px;
+height: 27px;
+top: 3521px;
+left: 122px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 18px;
+font-weight: 800;
+line-height: 26.5px;
+letter-spacing: 0.095em;
+text-align: left;
+color: #4475F2;
+}
+.text-26{
+    width:600px;
+height: 54px;
+top: 3561px;
+left: 122px;
+gap: 0px;
+opacity: 0px;font-family: Manrope;
+font-size: 36px;
+font-weight: 800;
+line-height: 50px;
+letter-spacing: -0.01em;
+text-align: left;
+color: #14183E;
+}
+
+.text-27{
+    width: 133px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #BDBDBD;
+}
+.text-28{
+    width: 189px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.10000000149011612px;
+text-align: left;
+color: #252B42;
+}
+
+.text-29{
+    width: 207px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #737373;
+}
+
+.text-30{
+    width: 148px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #23A6F0;
+}
+.text-31{
+    width: 620px;
+height: 32px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 24px;
+font-weight: 800;
+line-height: 32px;
+letter-spacing: 2.0999999046325684px;
+text-align: left;
+color: #FFFFFF;
+}
+
+.text-32{
+    width: 695px;
+height: 52px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #FFFFFF;
+}
+.text-33{
+    width:45px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: manrope;
+font-size: 14px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #FFFFFF;
+}
+
+.text-34{
+    width: 30px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: manrope;
+font-size: 14px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #FFFFFF;
+}
+.text-35{
+    width: 259px;
+height: 27px;
+top: 4567px;
+left: 576px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 18px;
+font-weight: 800;
+line-height: 26.5px;
+letter-spacing: 0.095em;
+text-align: center;
+color: #4737FF;
+}
+
+.text-36{
+    width: 945px;
+height: 62px;
+top: 4613px;
+left: 248px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 56px;
+font-weight: 800;
+line-height: 62px;
+letter-spacing: -1px;
+text-align: left;
+color: #151D21;
+}
+
+.text-37{
+    width: 720px;
+height: 64px;
+top: 4693px;
+left: 281.27px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 18px;
+font-weight: 400;
+line-height: 32px;
+text-align: center;
+color: #18191F;
+}
+.text-38{
+    width: 255px;
+height: 78px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #737373;
+}
+.text-39{
+    width: 122px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #23A6F0;
+}
+
+.text-40{
+    width: 97px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #252B42;
+}
+
+.text-41{
+    width: 281px;
+height: 78px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #737373;
+}
+
+.text-42{
+    width: 194px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #23A6F0;
+}
+
+.text-43{
+    width: 148px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #252B42;
+}
+.text-44{
+    width: 228px;
+height: 78px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #737373;
+}
+
+.text-45{
+    width: 83px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #23A6F0;
+}
+.text-46{
+    width: 157px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #252B42;
+}
+
+.text-47{
+    width: 300px;
+height: 27px;
+top: 5497px;
+left: 122px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 15px;
+font-weight: 800;
+line-height: 26.5px;
+letter-spacing: 0.095em;
+text-align: left;
+color: #4475F2;
+}
+
+.text-48{
+    width: 853px;
+height: 54px;
+top: 5537px;
+left: 122px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 36px;
+font-weight: 800;
+line-height: 50px;
+letter-spacing: -0.01em;
+text-align: left;
+color: #14183E;
+}
+
+.text-49{
+    width: 462px;
+height: 108px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 40px;
+font-weight: 800;
+line-height: 54px;
+text-align: left;
+}
+
+.text-50{
+    width: 444px;
+height: 96px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 18px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+}
+
+.text-51{
+    width: 463px;
+height: 72px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #9A9EA6;
+}
+
+.text-52{
+    width: 108px;
+height: 30px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 24px;
+font-weight: 700;
+line-height: 30.24px;
+text-align: left;
+
+}
+@media screen and (max-width:991px) {
+    .hero-text {
+        width: 458px;
+        height: 267px;
+        top: 264px;
+        left: 122px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Plus Jakarta Sans;
+        font-size: 54px;
+        font-weight: 600;
+        line-height: 89px;
+        letter-spacing: -0.04em;
+        text-align: left;
+        color: #181E4B;
+    }
+    .text-36{
+        width: 745px;
+    height: 62px;
+    top: 4613px;
+    left: 248px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Manrope;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 62px;
+    letter-spacing: -1px;
+    text-align: left;
+    color: #151D21;
+    }
+    
+.text-48{
+    width: 743px;
+height: 54px;
+top: 5537px;
+left: 122px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 33px;
+font-weight: 800;
+line-height: 50px;
+letter-spacing: -0.01em;
+text-align: left;
+color: #14183E;
+}
+}
+
+
+@media screen and (max-width:768px) {
+    .hero-text {
+        width: 358px;
+        height: 167px;
+        top: 264px;
+        left: 122px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Plus Jakarta Sans;
+        font-size: 44px;
+        font-weight: 600;
+        line-height: 59px;
+        letter-spacing: -0.04em;
+        text-align: left;
+        color: #181E4B;
+    }
+
+    #text-4 {
+        width: 468px;
+        height: 24px;
+        top: 1233px;
+        left: 122px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Manrope;
+        font-size: 30px;
+        font-weight: 800;
+        line-height: 50px;
+        letter-spacing: -0.01em;
+        text-align: left;
+        color: #14183E;
+    }
+
+    .text-18{
+        font-family: Manrope;
+    font-size:25px;
+    font-weight: 800;
+    line-height: 62px;
+    letter-spacing: -1px;
+    text-align: left;
+    width: 445px;
+    height: 62px;
+    top: 2614px;
+    left: 247.21px;
+    gap: 0px;
+    opacity: 0px;
+    }
+    
+.text-19{
+    width: 450px;
+height: 64px;
+top: 2694px;
+left: 281.27px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 15px;
+font-weight: 400;
+line-height: 32px;
+text-align: center;
+}
+.text-26{
+    width:400px;
+height: 54px;
+top: 3561px;
+left: 122px;
+gap: 0px;
+opacity: 0px;font-family: Manrope;
+font-size: 26px;
+font-weight: 800;
+line-height: 50px;
+letter-spacing: -0.01em;
+text-align: left;
+color: #14183E;
+}
+.text-31{
+    width: 450px;
+height: 32px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 18px;
+font-weight: 800;
+line-height: 32px;
+letter-spacing: 2.0999999046325684px;
+text-align: left;
+color: #FFFFFF;
+}
+.text-32{
+    margin-top: 20px;
+    width: 405px;
+height: 52px;
+gap: 0px;
+opacity: 0px;
+font-family: Plus Jakarta Sans;
+font-size: 13px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #FFFFFF;
+}
+.text-36{
+    width: 445px;
+height: 62px;
+top: 4613px;
+left: 248px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 26px;
+font-weight: 800;
+line-height: 62px;
+letter-spacing: -1px;
+text-align: left;
+color: #151D21;
+}
+.text-37{
+    width: 420px;
+height: 64px;
+top: 4693px;
+left: 281.27px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 14px;
+font-weight: 400;
+line-height: 32px;
+text-align: center;
+color: #18191F;
+}
+.text-48{
+    width: 443px;
+height: 54px;
+top: 5537px;
+left: 122px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size:23px;
+font-weight: 800;
+line-height: 50px;
+letter-spacing: -0.01em;
+text-align: left;
+color: #14183E;
+}
+}
+
+@media screen and (max-width:475px) {
+    .hero-p {
+        width: 320px;
+        height: 90px;
+        top: 561px;
+        left: 120px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Plus Jakarta Sans;
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 30px;
+        text-align: left;
+        color: #5E6282;
+    }
+
+    #text-4 {
+        width: 360px;
+        height: 24px;
+        top: 1233px;
+        left: 122px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Manrope;
+        font-size: 22px;
+        font-weight: 800;
+        line-height: 50px;
+        letter-spacing: -0.01em;
+        text-align: left;
+        color: #14183E;
+    }
+
+    .text-6{
+        width: 300.61px;
+    height: 39.57px;
+    top: 1915.09px;
+    left: 118px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Plus Jakarta Sans;
+    font-size: 35px;
+    font-weight: 800;
+    line-height: 43px;
+    text-align: left;
+    color: #14183E;
+    }
+
+    .text-8{
+        width: 281.07px;
+    height: 32.94px;
+    top: 2113.71px;
+    left: 191.01px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Plus Jakarta Sans;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 19.92px;
+    text-align: left;
+    color: #5E6282;
+    }
+    
+    .text-10{
+        width: 281.07px;
+    height: 32.94px;
+    top: 2113.71px;
+    left: 191.01px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Plus Jakarta Sans;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 19.92px;
+    text-align: left;
+    color: #5E6282;
+    }
+    
+    .text-12{
+        width: 281.07px;
+    height: 32.94px;
+    top: 2113.71px;
+    left: 191.01px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Plus Jakarta Sans;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 19.92px;
+    text-align: left;
+    color: #5E6282;
+    }
+    
+    .text-9{
+        width: 302px;
+    height: 22px;
+    top: 2208px;
+    left: 191px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Plus Jakarta Sans;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 22.41px;
+    text-align: left;
+    color: #5E6282;
+    }
+    
+    .text-17{
+    width: 220.37px;
+height: 17px;
+top: 2568px;
+left: 612.82px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 15px;
+font-weight: 800;
+line-height: 26.5px;
+letter-spacing: 0.095em;
+text-align: center;
+color: #4737FF;
+}
+    .text-18{
+        font-family: Manrope;
+    font-size:20px;
+    font-weight: 800;
+    line-height: 62px;
+    letter-spacing: -1px;
+    text-align: left;
+    width: 345px;
+    height: 62px;
+    top: 2614px;
+    left: 247.21px;
+    gap: 0px;
+    opacity: 0px;
+    }
+ 
+    .text-19{
+        width: 340px;
+    height: 64px;
+    top: 2694px;
+    left: 281.27px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Manrope;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    }
+    .text-26{
+        width:300px;
+    height: 54px;
+    top: 3561px;
+    left: 122px;
+    gap: 0px;
+    opacity: 0px;font-family: Manrope;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 50px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    color: #14183E;
+    }
+    .text-31{
+        width: 300px;
+    height: 32px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Plus Jakarta Sans;
+    font-size: 13px;
+    font-weight: 800;
+    line-height: 32px;
+    letter-spacing: 2.0999999046325684px;
+    text-align: left;
+    color: #FFFFFF;
+    }
+    .text-32{
+        width: 305px;
+    height: 52px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Plus Jakarta Sans;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: #FFFFFF;
+    }
+    .text-36{
+        width: 345px;
+    height: 42px;
+    top: 4613px;
+    left: 248px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 62px;
+    letter-spacing: -1px;
+    text-align: left;
+    color: #151D21;
+    }
+    .text-35{
+        width: 259px;
+    height: 1px;
+    top: 4567px;
+    left: 576px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Manrope;
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 26.5px;
+    letter-spacing: 0.095em;
+    text-align: center;
+    color: #4737FF;
+    }
+    .text-37{
+        width: 320px;
+    height: 64px;
+    top: 4693px;
+    left: 281.27px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Manrope;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    color: #18191F;
+    }
+
+    .text-48{
+        width: 303px;
+    height: 54px;
+    top: 5537px;
+    left: 122px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Manrope;
+    font-size:18px;
+    font-weight: 800;
+    line-height: 50px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    color: #14183E;
+    }
+    .text-49{
+        width: 402px;
+    height: 108px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Manrope;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 54px;
+    text-align: left;
+    }
+    
+    .text-50{
+        width: 304px;
+    height: 96px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    }   
+
+    .text-51{
+        width: 303px;
+    height: 72px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Plus Jakarta Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #9A9EA6;
+    }
+}
